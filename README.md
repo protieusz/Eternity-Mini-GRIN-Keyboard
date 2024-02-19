@@ -1,5 +1,5 @@
 # Eternity-Mini-GRIN-Keyboard
-Eternity 36 Keys GRIN keyboard with EVQ roller encoder and top side smd RP2024 components showing.
+Eternity Mini 36 Keys GRIN keyboard with EVQ roller encoder and top side smd RP2024 components showing.
 
 Fusion360 Render
 ![Screenshot 2024-02-19 at 1 00 24 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/bbf1736f-9890-4376-82fd-2728f2446777)
