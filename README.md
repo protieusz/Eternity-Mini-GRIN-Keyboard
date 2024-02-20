@@ -10,6 +10,7 @@ Fusion360 Render
 ![Screenshot 2024-02-19 at 1 02 20 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/e5fb16ca-a433-4f9a-90d1-d1de323babeb)
 ![Screenshot 2024-02-19 at 1 02 04 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/8095801e-b998-4bb3-ab7f-aea6e7358d72)
 ![Screenshot 2024-02-19 at 1 01 22 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/36517293-02e4-4179-921c-daa337441490)
+![Screenshot 2024-02-20 at 8 51 33 AM](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/32301d94-a896-4b08-8f6d-bb36acf7d951)
 
 EasyEDA Render
 ![Screenshot 2024-02-18 at 10 25 49 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/8e999b61-04b0-4b5d-931e-d6172049cd1b)
