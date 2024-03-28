@@ -4,7 +4,8 @@ PCBWay Sponsored: Eternity Mini 36 Keys GRIN keyboard with EVQ roller encoder an
 Thank you, ![PCBWay](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/ca994712-6055-43d1-8b5e-29c0ba5d7aec)
 for sponsoring my Eternity Mini. For all your prototype pcb needs, PCBWay is your answer. Good quality and good communications.
 
-Eternity Mini Finished Production Pics
+
+# Eternity Mini Finished Production Pics
 
 ![IMG_1707](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/5d2af9de-0ab9-4be6-adc8-6dbe847102ca)
 ![IMG_1709](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/7c3a798c-c73b-4e9a-a029-8739155400f2)
@@ -26,13 +27,13 @@ Eternity Mini Finished Production Pics
 ![IMG_1693](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/2d9d0fc1-36c8-4d5d-91d3-00aee392ab0d)
 
 
-PCBWay Components Placement Validation Pics
+# PCBWay Components Placement Validation Pics
 
 ![IMG_20240325_140100](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/01696359-c1ee-48c8-91be-c9ef59bc94f1)
 ![IMG_20240325_140055](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/76577ada-8e86-433f-b172-2a5210a932f4)
 ![IMG_20240325_140050](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/7ee10cf6-b947-47cd-a9d5-4df381b0eea1)
 
-Fusion360 Render
+# Fusion360 Render
 ![Screenshot 2024-02-19 at 4 13 56 PM](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/e6ec2a78-a189-4dce-9c32-5b883a32108f)
 ![Screenshot 2024-02-19 at 1 00 24 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/bbf1736f-9890-4376-82fd-2728f2446777)
 ![Screenshot 2024-02-19 at 1 00 39 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/2f68ba8a-2f4a-46a2-b9ac-7908cb737774)
@@ -43,7 +44,7 @@ Fusion360 Render
 ![Screenshot 2024-02-19 at 1 01 22 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/36517293-02e4-4179-921c-daa337441490)
 ![Screenshot 2024-02-20 at 8 51 33 AM](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/32301d94-a896-4b08-8f6d-bb36acf7d951)
 
-EasyEDA Render
+# EasyEDA Render
 ![Screenshot 2024-02-18 at 10 25 49 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/8e999b61-04b0-4b5d-931e-d6172049cd1b)
 ![Screenshot 2024-02-18 at 10 26 26 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/7c30e16c-90f2-43f6-a4ca-575b92131691)
 ![Screenshot 2024-02-18 at 10 26 05 AM](https://github.com/protieusz/Eternity-GRIN-Keyboard/assets/118025702/584a801d-7159-44b6-b0d9-272a62339fb1)
