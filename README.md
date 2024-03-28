@@ -1,6 +1,31 @@
 # Eternity-Mini-GRIN-Keyboard
 PCBWay Sponsored: Eternity Mini 36 Keys GRIN keyboard with EVQ roller encoder and top side smd RP2024 components showing.
 
+Thank you, ![PCBWay](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/ca994712-6055-43d1-8b5e-29c0ba5d7aec)
+for sponsoring my Eternity Mini. For all your prototype pcb needs, PCBWay is your answer. Good quality and good communications.
+
+Eternity Mini Finished Production Pics
+
+![IMG_1707](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/5d2af9de-0ab9-4be6-adc8-6dbe847102ca)
+![IMG_1709](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/7c3a798c-c73b-4e9a-a029-8739155400f2)
+![IMG_1708](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/dd131f26-02b6-4a08-af9e-39ec11994a23)
+![IMG_1710](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/8578734c-84f6-435e-bd4a-098782068530)
+![IMG_1705](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/530e5c13-d05d-4a3e-b3ce-21fa0ce08c93)
+![IMG_1706](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/07a9ec74-11d3-4409-8d59-4767f0c353d7)
+![IMG_1704](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/bb5ff619-d6dd-49e2-90d5-5951d160ed61)
+![IMG_1703](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/df72d53e-2216-49b0-9114-31a8e3368300)
+![IMG_1702](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/697a7a06-432d-4aec-baee-7e093fc7a5bf)
+![IMG_1701](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/4f586fd5-1933-4138-b24a-d5c39200991e)
+![IMG_1700](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/279de1e8-4dad-4457-ae4f-62ceeffa2e56)
+![IMG_1699](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/246d3e38-1797-4a4d-aa8b-9536840b7446)
+![IMG_1698](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/64a99ac4-adeb-40fb-85bf-95daf0f8e023)
+![IMG_1697](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/3535b440-d951-4ece-b0a8-dd5b27eff7c5)
+![IMG_1696](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/6d61289b-9bd2-40a4-85b3-62003be1335b)
+![IMG_1695](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/83e88e3a-2d56-4b7b-9821-6f96a8ee962d)
+![IMG_1694](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/6087a213-8fc3-4a9b-96ef-7d2e0a4875f3)
+![IMG_1693](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/2d9d0fc1-36c8-4d5d-91d3-00aee392ab0d)
+
+
 PCBWay Components Placement Validation Pics
 
 ![IMG_20240325_140100](https://github.com/protieusz/Eternity-Mini-GRIN-Keyboard/assets/118025702/01696359-c1ee-48c8-91be-c9ef59bc94f1)
